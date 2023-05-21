@@ -1,0 +1,12 @@
+Printed customer: Customer: 1, Ivanov, Ivan, 1234, 12345
+Printed customer: Customer: 2, Petrov, Petr, 2345, 23456
+Printed customer with card number in range: Customer: 1, Ivanov, Ivan, 1234, 12345
+Printed customer: Customer: 1, Ivanov, Ivan, 1234, 12345
+Printed customer: Customer: 2, Petrov, Petr, 2345, 23456
+Printed customer with card number in range: Customer: 1, Ivanov, Ivan, 1234, 12345
+Printed customer: Customer: 1, Ivanov, Ivan, 1234, 12345
+Printed customer: Customer: 2, Petrov, Petr, 2345, 23456
+Printed customer with card number in range: Customer: 1, Ivanov, Ivan, 1234, 12345
+Printed customer: Customer: 1, Ivanov, Ivan, 1234, 12345
+Printed customer: Customer: 2, Petrov, Petr, 2345, 23456
+Printed customer with card number in range: Customer: 1, Ivanov, Ivan, 1234, 12345
